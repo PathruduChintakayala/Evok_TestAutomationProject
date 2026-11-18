@@ -1,0 +1,12 @@
+﻿{
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Id": "1nNQg6LPbEKtnjWD-peGRA",
+  "Reference": "RulEQ69FEUqky8xPYAZicg/1nNQg6LPbEKtnjWD-peGRA",
+  "ParentRef": "RulEQ69FEUqky8xPYAZicg/-XlWwDPTI0yVQUyDZWQcLg",
+  "Created": "2026-11-10T06:29:37.3006838Z",
+  "Updated": "2026-11-10T06:29:37.3006838Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

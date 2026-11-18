@@ -1,0 +1,15 @@
+﻿{
+  "Name": "LoanStatus",
+  "Type": "Screen",
+  "Id": "iAcbruso7Eym8eoDvzV5uA",
+  "Reference": "RulEQ69FEUqky8xPYAZicg/iAcbruso7Eym8eoDvzV5uA",
+  "ParentRef": "RulEQ69FEUqky8xPYAZicg/1nNQg6LPbEKtnjWD-peGRA",
+  "Created": "2026-11-10T07:52:33.6540247Z",
+  "Updated": "2026-11-10T07:52:51.7600711Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

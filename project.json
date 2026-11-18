@@ -1,0 +1,101 @@
+{
+  "name": "EvokTestAutomationProject",
+  "projectId": "3b6b044e-0267-4972-b39a-8be09f0a46c5",
+  "description": "Test Automation Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.DataService.Activities": "[26.10.1]",
+    "UiPath.Excel.Activities": "[3.6.0-preview]",
+    "UiPath.System.Activities": "[26.10.0]",
+    "UiPath.Testing.Activities": "[25.10.3]",
+    "UiPath.UIAutomation.Activities": "[26.10.7]"
+  },
+  "webServices": [],
+  "entitiesStores": [
+    {
+      "serviceDocument": ".entities/EntitiesStore.json",
+      "namespace": "EvokTestAutomationProject"
+    }
+  ],
+  "schemaVersion": "4.1",
+  "studioVersion": "26.0.204.0",
+  "projectVersion": "1.0.247997776",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "NewtonsoftJson",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "e9a8018a-40dc-459a-aa47-1e98ee19ce9a",
+        "testCaseType": "TestCase",
+        "fileName": "Verify Submit Loan Application.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "fcfcd90f-2751-45de-b272-3f516f3603db",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Excel Data Testing.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "d3ee1365-e0f5-4052-8a25-fd13c978d0bb",
+        "dataVariationFilePath": ".variations\\LoanApplicationData_Sheet1.json",
+        "testCaseType": "TestCase",
+        "fileName": "Verify Submit Loan Application - Excel Data.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "717621e7-f5d1-4fae-a149-0896563e6168",
+        "dataVariationFilePath": ".variations\\Verify Submit Loan Application - Generative.json",
+        "testCaseType": "TestCase",
+        "fileName": "Verify Submit Loan Application - Generative.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "0ae38e16-976c-41ee-9905-82ff4a56dfb5",
+        "dataVariationFilePath": ".variations\\LoanApplicationData_TestFilter.json",
+        "testCaseType": "TestCase",
+        "fileName": "Verify Submit Loan Application - DataFabric.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "98605a60-267a-47c1-aa33-8c442af69c29",
+        "dataVariationFilePath": ".variations\\LoanApplication_NotConsumedQueue.json",
+        "testCaseType": "TestCase",
+        "fileName": "Verify Submit Loan Application - Test Data Queue.xaml"
+      }
+    ],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows",
+  "dotNetVersion": "net10.0"
+}

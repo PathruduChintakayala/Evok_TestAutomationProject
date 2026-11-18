@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Loans",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "nkwrK3u070uj6wots4Rmpg",
+  "Reference": "RulEQ69FEUqky8xPYAZicg/nkwrK3u070uj6wots4Rmpg",
+  "ParentRef": "RulEQ69FEUqky8xPYAZicg/eU1GZOEeuk6YFeL0XJSZVw",
+  "Created": "2026-11-10T07:36:16.7899362Z",
+  "Updated": "2026-11-10T07:37:00.5584735Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

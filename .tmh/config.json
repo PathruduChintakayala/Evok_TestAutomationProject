@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://staging.uipath.com/skillrpa/DefaultTenant/testmanager_",
+  "defaultProject": {
+    "id": "c9a24283-18ca-0700-7794-0b4a594491f6",
+    "name": "EvokFirstTestingProject",
+    "key": "ETP"
+  }
+}

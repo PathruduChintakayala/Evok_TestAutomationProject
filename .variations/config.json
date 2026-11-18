@@ -1,0 +1,20 @@
+{
+  "dataVariationFileInfo": [
+    {
+      "filePath": ".variations\\LoanApplicationData_Sheet1.json",
+      "dataVariationType": "File"
+    },
+    {
+      "filePath": ".variations\\Verify Submit Loan Application - Generative.json",
+      "dataVariationType": "File"
+    },
+    {
+      "filePath": ".variations\\LoanApplicationData_TestFilter.json",
+      "dataVariationType": "Entity"
+    },
+    {
+      "filePath": ".variations\\LoanApplication_NotConsumedQueue.json",
+      "dataVariationType": "TestDataQueue"
+    }
+  ]
+}

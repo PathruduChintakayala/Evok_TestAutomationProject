@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JSaR36e1GUSa1TJlQ-p0Og" Reference="RulEQ69FEUqky8xPYAZicg/W_TEHMrjcU-sezB-gdwWgA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/login" ContentHash="c_RHeRVz00ye-WKo4z-uaA" DesignTimeRectangle="839, 990, 240, 74" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="692554b2-80fc-41fb-a059-5e3bdfa77965" Reference="RulEQ69FEUqky8xPYAZicg/W_TEHMrjcU-sezB-gdwWgA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Welcome' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8b6c4dfcc344dd87847cddf3313ae33b.jpg" xmlns="">0sEo9OKjPjUyTVKv89W5PsA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

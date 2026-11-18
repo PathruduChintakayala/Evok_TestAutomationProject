@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Products",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "mPc07gZKoUatUdD7WhFKHQ",
+  "Reference": "RulEQ69FEUqky8xPYAZicg/mPc07gZKoUatUdD7WhFKHQ",
+  "ParentRef": "RulEQ69FEUqky8xPYAZicg/eU1GZOEeuk6YFeL0XJSZVw",
+  "Created": "2026-11-10T07:35:10.4442185Z",
+  "Updated": "2026-11-10T07:35:51.3547057Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

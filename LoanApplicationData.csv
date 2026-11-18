@@ -1,0 +1,5 @@
+EmailAddress,LoanAmount,LoanTerm,YearlyIncome,Age
+person1@gmail.com,10000,5,100000,30
+person2@gmail.com,9000,5,90000,25
+person3@gmail.com,8000,5,80000,32
+person4@gmail.com,7000,5,70000,28
